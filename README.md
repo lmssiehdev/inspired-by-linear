@@ -1,5 +1,7 @@
 # A collection of websites inspired by Linear
 
+![linear.app preview](https://raw.githubusercontent.com/lmssiehdev/inspired-by-linear/main/public/linear_app_preview.png)
+
 `NOTE: I have also included some websites that may not be directly inspired by Linear but can serve as inspiration if you're designing a similar website.`
 
 [https://anron.pro/](https://anron.pro/)  
@@ -53,3 +55,9 @@
 ## Similar projects
 
 https://www.linears.art/
+
+## Contribute
+
+If you want to submit a website, please fork this project and submit a PR or open an Issue.
+
+WIP: Will add screenshots and maybe set up a website in the future.
