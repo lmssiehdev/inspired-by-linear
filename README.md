@@ -1,54 +1,55 @@
-# Astro Starter Kit: Basics
+# A collection of websites inspired by Linear
 
-```
-npm create astro@latest -- --template basics
-```
+`NOTE: I have also included some websites that may not be directly inspired by Linear but can serve as inspiration if you're designing a similar website.`
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[https://anron.pro/](https://anron.pro/)  
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+[https://diagram.com/](https://diagram.com/)  
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+[https://evervault.com/](https://evervault.com/)  
 
-## 🚀 Project Structure
+[https://framer.com/business/](https://framer.com/business/)  
 
-Inside of your Astro project, you'll see the following folders and files:
+[https://frame.io/](https://frame.io/)
 
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+[https://imagifly.co/](https://imagifly.co/)  
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+[https://joystream.org/](https://joystream.org/)  
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+[https://lazy.so/](https://lazy.so/)  
 
-Any static assets, like images, can be placed in the `public/` directory.
+[https://linear.app/](https://linear.app/)  
 
-## 🧞 Commands
+[https://necatikcl.dev/](https://necatikcl.dev/)  
 
-All commands are run from the root of the project, from a terminal:
+[https://nuxt.com/](https://nuxt.com/)  
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+[https://pipe.com/](https://pipe.com/)  
 
-## 👀 Want to learn more?
+[https://ravlay.com/](https://ravlay.com/)  
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[https://raycast.com/](https://raycast.com/)  
+
+[https://reflect.app/](https://reflect.app/)  
+
+[https://relumeipsum.com/](https://relumeipsum.com/)  
+
+[https://resend.com/](https://resend.com/)  
+
+[https://starlight.money/](https://starlight.money/)  
+
+[https://studio.design/](https://studio.design/)  
+
+[https://twingate.com/](https://twingate.com/)  
+
+[https://volta.net/](https://volta.net/)  
+
+[https://withcoherence.com/](https://withcoherence.com/)  
+
+[https://withcoherence.com/](https://withcoherence.com/)  
+
+[https://wope.com/](https://wope.com/)
+
+## Similar projects
+
+https://www.linears.art/
