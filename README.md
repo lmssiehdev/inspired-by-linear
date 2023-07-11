@@ -42,6 +42,8 @@
 
 [https://studio.design/](https://studio.design/)  
 
+[https://superhuman.com/](https://superhuman.com/)
+
 [https://twingate.com/](https://twingate.com/)  
 
 [https://volta.net/](https://volta.net/)  
